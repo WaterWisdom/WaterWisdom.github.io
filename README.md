@@ -4,6 +4,8 @@
 
 [Syllabus](#)
 
+[Course Schedule](#)
+
 
 <hr>
 ### Assignments
