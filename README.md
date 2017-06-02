@@ -20,6 +20,8 @@
 
 [Assignment 5](#)
 
+[Assignment 6](asnmt6.pdf)
+
 <hr>
 ### Project
 
