@@ -22,6 +22,18 @@ Assignment 5
 
 
 <hr>
+### Lecture Notes
+
+|      | Week 1        | Week 2        | Week 3        |
+|------| ------------- |---------------| --------------|
+|Mon   | No Class      | Lecture 04    | Lecture 09    |
+|Tues  | No Class      | Lecture 05    | Lecture 10    |
+|Wed   | Lecture 01    | Lecture 06    | Lecture 11    |
+|Thurs | Lecture 02    | Lecture 07    | Lecture 12    |
+|Fri   | Lecture 03    | Lecture 08    | Lecture 13    |
+
+
+<hr>
 ### Project
 
 Project Description
