@@ -10,7 +10,7 @@
 <hr>
 ### Assignments
 
-[Assignment 1](/docs/Assignment01.pdf) | Assignment 2 | Assignment 3 | Assignment 4 | Assignment 5
+[Assignment 1](/docs/Assignment01.pdf) | [Assignment 2](/docs/Assignment02.pdf) | Assignment 3 | Assignment 4 | Assignment 5
 
 
 <hr>
