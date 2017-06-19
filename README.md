@@ -22,7 +22,7 @@
 |Tues  | No Class                                | [Lecture 05](/lec/05-Watershed.pdf)    | [Lecture 10](/lec/10-DamsReservoirs.pdf) |
 |Wed   | [Lecture 01](/lec/01-Intro.pdf)         | [Lecture 06](/lec/06-GreatLakes.pdf)   | [Lecture 11](/lec/11-DamVideo.pdf)       |
 |Thurs | [Lecture 02](/lec/02-WaterOverview.pdf) | [Lecture 07](/lec/07-Groundwater.pdf)  | Lecture 12                               |
-|Fri   | [Lecture 03](/lec/03-WaterCycle.pdf)    | [Lecture 08](/lec/08-Rivers.pdf)       | Lecture 13                               |
+|Fri   | [Lecture 03](/lec/03-WaterCycle.pdf)    | [Lecture 08](/lec/08-Rivers.pdf)       | [Lecture 13](/lec/13-Mercury.pdf)        |
 
 
 <hr>
