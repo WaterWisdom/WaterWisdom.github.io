@@ -16,13 +16,13 @@
 <hr>
 ### Lecture Notes
 
-|      | Week 1                                  | Week 2                                 | Week 3                                   |
-|------|-----------------------------------------|----------------------------------------|------------------------------------------|
-|Mon   | No Class                                | [Lecture 04](/lec/04-WaterQuality.pdf) | [Lecture 09](/lec/09-Wetlands.pdf)       |
-|Tues  | No Class                                | [Lecture 05](/lec/05-Watershed.pdf)    | [Lecture 10](/lec/10-DamsReservoirs.pdf) |
-|Wed   | [Lecture 01](/lec/01-Intro.pdf)         | [Lecture 06](/lec/06-GreatLakes.pdf)   | [Lecture 11](/lec/11-DamVideo.pdf)       |
-|Thurs | [Lecture 02](/lec/02-WaterOverview.pdf) | [Lecture 07](/lec/07-Groundwater.pdf)  | ---------                                |
-|Fri   | [Lecture 03](/lec/03-WaterCycle.pdf)    | [Lecture 08](/lec/08-Rivers.pdf)       | [Lecture 12](12-WaterTreatment_Hg.pdf)   |
+|     | Week 1                                 | Week 2                                | Week 3                                     |
+|-----|----------------------------------------|---------------------------------------|--------------------------------------------|
+|Mon  | No Class                               | [Lecture 04](/lec/04-WaterQuality.pdf)| [Lecture 09](/lec/09-Wetlands.pdf)         |
+|Tues | No Class                               | [Lecture 05](/lec/05-Watershed.pdf)   | [Lecture 10](/lec/10-DamsReservoirs.pdf)   |
+|Wed  | [Lecture 01](/lec/01-Intro.pdf)        | [Lecture 06](/lec/06-GreatLakes.pdf)  | [Lecture 11](/lec/11-DamVideo.pdf)         |
+|Thurs| [Lecture 02](/lec/02-WaterOverview.pdf)| [Lecture 07](/lec/07-Groundwater.pdf) | ---------                                  |
+|Fri  | [Lecture 03](/lec/03-WaterCycle.pdf)   | [Lecture 08](/lec/08-Rivers.pdf)      | [Lecture 12](/lec/12-WaterTreatment_Hg.pdf)|
 
 
 <hr>
