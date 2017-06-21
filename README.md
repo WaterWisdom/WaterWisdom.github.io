@@ -10,7 +10,7 @@
 <hr>
 ### Assignments
 
-[Assignment 1](/docs/Assignment01.pdf) | [Assignment 2](/docs/Assignment02.pdf) | [Assignment 3](/docs/Assignment03.pdf) | Assignment 4 | Assignment 5
+[Assignment 1](/docs/Assignment01.pdf) | [Assignment 2](/docs/Assignment02.pdf) | [Assignment 3](/docs/Assignment03.pdf) | Assignment 4 
 
 
 <hr>
@@ -28,7 +28,7 @@
 <hr>
 ### Project
 
-Project Description
+[Project Description](/docs/ProjectDescription.pdf)
 
 Oral Presentation Instructions
 
