@@ -30,7 +30,7 @@
 
 [Project Description](/docs/ProjectDescription.pdf)
 
-Oral Presentation Instructions
+[Oral Presentation Instructions](/docs/OralPresentation.pdf)
 
 [Written Report Instructions ](/docs/WrittenReportTemplate.docx) (Clicking will automatically download a Microsoft Word document.)
 
