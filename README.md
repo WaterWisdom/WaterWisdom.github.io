@@ -12,6 +12,8 @@
 
 [Assignment 1](/docs/Assignment01.pdf) | [Assignment 2](/docs/Assignment02.pdf) | [Assignment 3](/docs/Assignment03.pdf)
 
+[Final Exam STUDY GUIDE](/docs/StudyGuide.pdf)
+
 
 <hr>
 ### Lecture Notes
