@@ -61,7 +61,7 @@ The river water sample will be taken from the Missouri River at this location:
 |Nitrate          | 0 - 10       | 10              |
 |Nitrite          | 0 - 1        | 1               |
 |Free Chlorine    | 0.2 - 1      | 1               |
-|pH               | 6.5 - 8.5    | ---             |
+| *pH*            | 6.5 - 8.5    | ---             |
 
 
 
