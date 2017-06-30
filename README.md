@@ -48,6 +48,26 @@ The river water sample will be taken from the Missouri River at this location:
 
 [Employment Projections](/docs/EmploymentProjections.pdf)
 
+<hr>
+### Acceptable Levels for Contaminants
+
+|TEST             |CORRECT RANGE |MAX RECOMMENDED  |
+|-----------------|--------------|-----------------|
+|Total Alkalinity | ---          | ---             |
+|Total Hardness   | ---          | ---             |
+|Iron             | 0 - 0.3      | 0.3             |
+|Copper           | 0 - 1        | 1               |
+|Lead             | ---          | 0               |
+|Nitrate          | 0 - 10       | 10              |
+|Nitrite          | 0 - 1        | 1               |
+|Free Chlorine    | 0.2 - 1      | 1               |
+|pH               | 6.5 - 8.5    | ---             |
+
+
+
+
+
+
 
 
 
