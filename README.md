@@ -34,8 +34,6 @@
 
 [Project Description](/docs/ProjectDescription.pdf)
 
-[Oral Presentation Instructions](/docs/OralPresentation.pdf)
-
 [Written Report Instructions ](/docs/WrittenReportTemplate.docx) (Clicking will automatically download a Microsoft Word document.)
 
 [Class Results](/docs/ClassResults.xlsx) (Clicking will automaticall download a Microsolft Excel document.)
