@@ -18,13 +18,13 @@
 <hr>
 ### Lecture Notes
 
-|     | Week 1                                                  | Week 2                                                          | Week 3                                                                    |
-|-----|---------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------------------|
-|Mon  | No Class                                                | [Lecture 04 - Water Quality/Chemistry](/lec/04-WaterQuality.pdf)| [Lecture 09 - Wetlands](/lec/09-Wetlands.pdf)                             |
-|Tues | No Class                                                | [Lecture 05 - Watershed](/lec/05-Watershed.pdf)                 | [Lecture 10 - Dams & Reservoirs](/lec/10-DamsReservoirs.pdf)              |
-|Wed  | [Lecture 01 - Intro](/lec/01-Intro.pdf)                 | [Lecture 06 - Great Lakes](/lec/06-GreatLakes.pdf)              | [Lecture 11 - Hoover Dam](/lec/11-DamVideo.pdf)                           |
-|Thurs| [Lecture 02 - Water Overview](/lec/02-WaterOverview.pdf)| [Lecture 07 - Groundwater](/lec/07-Groundwater.pdf)             | ---------                                                                 |
-|Fri  | [Lecture 03 - Water Cycle](/lec/03-WaterCycle.pdf)      | [Lecture 08 - Rivers](/lec/08-Rivers.pdf)                       | [Lecture 12 - Water Treatment and Mercury](/lec/12-WaterTreatment_Hg.pdf) |
+|     | Week 1                                                  | Week 2                                                            | Week 3                                                                    |
+|-----|---------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------------|
+|Mon  | No Class                                                | [Lecture 04 - Water Quality & Chemistry](/lec/04-WaterQuality.pdf)| [Lecture 09 - Wetlands](/lec/09-Wetlands.pdf)                             |
+|Tues | No Class                                                | [Lecture 05 - Watershed](/lec/05-Watershed.pdf)                   | [Lecture 10 - Dams & Reservoirs](/lec/10-DamsReservoirs.pdf)              |
+|Wed  | [Lecture 01 - Intro](/lec/01-Intro.pdf)                 | [Lecture 06 - Great Lakes](/lec/06-GreatLakes.pdf)                | [Lecture 11 - Hoover Dam](/lec/11-DamVideo.pdf)                           |
+|Thurs| [Lecture 02 - Water Overview](/lec/02-WaterOverview.pdf)| [Lecture 07 - Groundwater](/lec/07-Groundwater.pdf)               | ---------                                                                 |
+|Fri  | [Lecture 03 - Water Cycle](/lec/03-WaterCycle.pdf)      | [Lecture 08 - Rivers](/lec/08-Rivers.pdf)                         | [Lecture 12 - Water Treatment and Mercury](/lec/12-WaterTreatment_Hg.pdf) |
 
 
 <hr>
